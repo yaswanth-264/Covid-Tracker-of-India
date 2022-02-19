@@ -1,0 +1,33 @@
+body{
+  background-color:#ffcfd2;
+  margin:0;
+  padding:0;
+  margin:0;
+  background-image: url(https://ysm-res.cloudinary.com/image/upload/ar_16:9,c_fill,dpr_3.0,f_auto,g_faces:auto,q_auto:eco,w_400/v1/yale-medicine/live-prod/ym_new/images/67ee5567-67d1-4f3d-bbae-4600e5b5632a_tcm990-423859.jpg);
+  background-size:cover
+}
+h2{
+  text-align:center;
+  margin-top:20px;
+  color:#e09f3e;
+  text-shadow: 0 2px 1px rgba(0,0,0,0.5);
+}
+li{
+  list-style-type:none;
+}
+
+
+.Confirmed{
+  text-shadow: 0 2px 3px rgba(0,0,0,0.5);
+  width:200px;
+  height:125px;
+  background-color:blue;
+  color:white;
+  display:inline-block;
+   margin-top:20px;
+  margin-right:150px;
+  padding:30px;
+  border-radius:8px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
+ 
+}
